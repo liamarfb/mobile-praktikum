@@ -23,3 +23,8 @@ Aplikasi latihan untuk git/github connection
 liamarfb
 ## Status
 Proyek awal perkuliahan.
+## Tujuan
+
+## Rencana Fitur
+
+## Cara Menjalankan
